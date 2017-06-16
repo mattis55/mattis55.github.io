@@ -12,7 +12,16 @@ font-weight: bold;}
 }
 body {
 	background:#76f2ac;
-	font-family:  'Patrick Hand SC', cursive;
-font-family: 'Anton', sans-serif;
+	font-family: 'Anton', sans-serif;
 
+}
+
+
+#banan4{
+	width: 500px;
+	float: right;
+}
+
+#recept{
+	margin-left: 20%;
 }
